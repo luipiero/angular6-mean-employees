@@ -1,13 +1,13 @@
-##Ejemplo MEAN
+#Ejemplo MEAN
 ============
-*fronted:
+*fronted:*
 ---------
 angular
 
 
 *server:*
 -------
-**nodejs:*
+**nodejs:**
 
 cors": 2.8.4
 express": 4.16.3
