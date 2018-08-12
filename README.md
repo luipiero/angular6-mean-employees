@@ -1,8 +1,9 @@
 Ejemplo MEAN
 ============
-*fronted:*
+*frontend:*
 ---------
-**angular**
+    **angular**
+    **materialize**
 
 
 *server:*
