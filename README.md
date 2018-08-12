@@ -2,8 +2,8 @@ Ejemplo MEAN
 ============
 *frontend:*
 ---------
-    **angular**
-    **materialize**
+ **angular**
+ **materialize**
 
 
 *server:*
